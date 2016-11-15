@@ -1,0 +1,23 @@
+{
+  "name": "Nyckel",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.7",
+    "react": "15.2.1",
+    "react-native": "0.29.1",
+    "react-native-blur": "^1.0.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-keychain": "^0.3.2",
+    "react-native-search-bar": "^2.16.0",
+    "react-native-swipe-list-view": "^0.2.2",
+    "react-native-swiper": "^1.4.6",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0",
+    "uuid": "^2.0.2"
+  }
+}
